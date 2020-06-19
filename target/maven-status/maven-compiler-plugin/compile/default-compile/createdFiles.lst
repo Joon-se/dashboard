@@ -1,0 +1,13 @@
+energyservice\Changed.class
+energyservice\Reserved.class
+energyservice\AbstractEvent$1.class
+energyservice\config\kafka\KafkaProcessor.class
+energyservice\DashboardViewHandler.class
+energyservice\AbstractEvent.class
+energyservice\Application.class
+energyservice\Dashboard.class
+energyservice\PolicyHandler.class
+energyservice\DashboardRepository.class
+energyservice\Processed.class
+energyservice\Cancelled.class
+energyservice\Assigned.class
